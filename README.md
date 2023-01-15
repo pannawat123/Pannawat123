@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 #I’m currently working on my facebook.
+- 🔭 I’m currently working on my facebook.
 - # H1
 ## H2
 ### H3
